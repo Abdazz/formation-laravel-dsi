@@ -1,5 +1,5 @@
 <x-master-layout titrePage='Faso'>
-hello
+hello world
     <div class="container">
         <div class="row">
             <div class="col-md-12">
